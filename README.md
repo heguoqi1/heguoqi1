@@ -6,10 +6,9 @@
 
 **AI Agent 开发 / FDE / Java 后端开发** | 2025 届本科 |  计算机科学与技术专业
 
-_「 whatever you write here 」_
 
-[![Email](https://img.shields.io/badge/Email-heguoqi%40163.com-red?style=flat&logo=gmail&logoColor=white)](mailto:798139726@qq.com)
-[![在职](https://img.shields.io/badge/在职---蓝-3b82f6?style=flat)](#)
+[![Email](https://img.shields.io/badge/Email-798139726%40qq.com-red?style=flat&logo=gmail&logoColor=white)](mailto:798139726@qq.com)
+[![在职](https://img.shields.io/badge/在职--3b82f6?style=flat)](#)
 
 </div>
 
@@ -32,7 +31,7 @@ _「 whatever you write here 」_
 ## 🛠 技术栈
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,springboot,springcloud,python,pytorch,langchain,langgraph,fastapi,docker,git,linux,mysql,pgsql,redis,mq等&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,springboot,springcloud,python,pytorch,langchain,langgraph,fastapi,docker,git,linux,mysql,pgsql,redis,mq&theme=dark" />
 </a>
 
 ## 📊 GitHub 统计
